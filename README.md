@@ -1,3 +1,7 @@
+# Event Tickets Extension: Additional Fields
+
+This is a customized version of the [official extension](https://github.com/mt-support/tribe-ext-tickets-additional-fields). It adds support for radio buttons.
+
 ## What and Why?
 
 This is an extension to add additional fields for Tickets and RSVPs. Event Tickets and Event Tickets Plus are required.
